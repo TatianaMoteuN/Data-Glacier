@@ -1,0 +1,6 @@
+Collecting plotly
+  Downloading plotly-5.10.0-py2.py3-none-any.whl (15.2 MB)
+Collecting tenacity>=6.2.0
+  Downloading tenacity-8.1.0-py3-none-any.whl (23 kB)
+Installing collected packages: tenacity, plotly
+Successfully installed plotly-5.10.0 tenacity-8.1.0
